@@ -30,6 +30,9 @@ __Note: if your repository isn't private, you can skip the `GITHUB_USERNAME` and
 - PHP: `php -S 127.0.0.1:8000 -t github-issue-client`
 - If you using bundling software (XAMPP, LAMPP, WAMPP), just copy to the **htdocs** folder and go to `http://127.0.0.1/github-issue-client` from your browser
 
+## License
+Github Issue Client is open-source software licensed under the [MIT license](https://github.com/mdandidarmawan/github-issue-client/blob/master/LICENSE.md).
+
 ## Contributing
 
 Thank you for considering contributing to this repository! Simply fork this repo and pull your request! :)
